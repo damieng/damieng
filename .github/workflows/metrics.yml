@@ -25,5 +25,4 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_ignored: shell, pascal
           plugin_languages_threshold: 0%
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          plugin_projects: no
