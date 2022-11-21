@@ -4,7 +4,7 @@ I'm Damien Guard, a software engineer interested in programming languages, expre
 
 Where you can find me:
 - My site [damieng.com](https://damieng.com/)
-- My thoughts <a rel="me" href="https://mastodon.social/@damieng">@damieng@mastodon.social</a>
+- My thoughts <a rel="me" href="https://mastodon.social/@damieng">@damieng on Mastodon.social</a>
 - My career [https://www.linkedin.com/in/damieng/](LinkedIn)
 
 Things I built or help maintain:
