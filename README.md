@@ -8,7 +8,7 @@ Where you can find me:
 - My career [https://www.linkedin.com/in/damieng/](LinkedIn)
 
 Things I built or help maintain:
-- [Mongo Entity Framework Core Provider](https://github.com/mongodb/mongo-efcore-provider) (Official EF Core provider for MongoDB)
+- [MongoDB EFcore Provider](https://github.com/mongodb/mongo-efcore-provider) (Official Entity Framework Core provider for MongoDB)
 - [TreeSitter C#](https://github.com/tree-sitter/tree-sitter-c-sharp) (C# parser used for GitHub's semantic features)
 - [ElasticLINQ](https://github.com/elasticlinq/elasticlinq) (.NET LINQ provider for Elasticsearch - deprecated)
 
