@@ -7,7 +7,7 @@ Where you can find me:
 - My thoughts <a rel="nofollow me" href="https://mastodon.social/@damieng">@damieng on Mastodon.social</a>
 - My career [https://www.linkedin.com/in/damieng/](LinkedIn)
 
-Some things I built:
+Some open-source things I built:
 
 - [MongoDB EFcore Provider](https://github.com/mongodb/mongo-efcore-provider) (Official Entity Framework Core provider for MongoDB)
 - [TreeSitter C#](https://github.com/tree-sitter/tree-sitter-c-sharp) (C# parser used for GitHub's semantic features)
