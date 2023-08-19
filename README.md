@@ -1,8 +1,9 @@
 ### Hey there!
 
-I'm Damien Guard, a software engineer interested in programming languages, expression trees, vintage computing (ZX Spectrum forever), fonts and things.
+I'm Damien Guard, a software engineer interested in programming languages, expression trees, vintage computing (ZX Spectrum forever), and fonts.
 
 Where you can find me:
+
 - My site [damieng.com](https://damieng.com/)
 - My thoughts <a rel="nofollow me" href="https://mastodon.social/@damieng">@damieng on Mastodon.social</a>
 - My career [https://www.linkedin.com/in/damieng/](LinkedIn)
