@@ -14,4 +14,4 @@ Some open-source things I built:
 - [TreeSitter C#](https://github.com/tree-sitter/tree-sitter-c-sharp) (C# parser used for GitHub's semantic features)
 - [ElasticLINQ](https://github.com/elasticlinq/elasticlinq) (.NET LINQ provider for Elasticsearch - deprecated)
 
-![Metrics](https://github.com/damieng/damieng/blob/main/github-metrics.svg)
+
