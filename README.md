@@ -10,7 +10,7 @@ Where you can find me:
 
 Some open-source things I built:
 
-- [MongoDB EFcore Provider](https://github.com/mongodb/mongo-efcore-provider) (Official Entity Framework Core provider for MongoDB)
+- [MongoDB EF Core Provider](https://github.com/mongodb/mongo-efcore-provider) (Official Entity Framework Core provider for MongoDB)
 - [TreeSitter C#](https://github.com/tree-sitter/tree-sitter-c-sharp) (C# parser used for GitHub's semantic features)
 
 
